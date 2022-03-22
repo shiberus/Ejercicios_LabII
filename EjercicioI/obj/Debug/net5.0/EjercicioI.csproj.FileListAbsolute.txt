@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\bin\Debug\net5.0\EjercicioI.exe
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\bin\Debug\net5.0\EjercicioI.deps.json
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\bin\Debug\net5.0\EjercicioI.runtimeconfig.json
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\bin\Debug\net5.0\EjercicioI.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\bin\Debug\net5.0\EjercicioI.dll
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\bin\Debug\net5.0\EjercicioI.pdb
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.dll
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\refint\EjercicioI.dll
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.pdb
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\EjercicioI.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Ejercicios_LabII\EjercicioI\obj\Debug\net5.0\ref\EjercicioI.dll
